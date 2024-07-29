@@ -1,11 +1,11 @@
 # Prettytable-in-python
 <h1>Banking System</h1>
-A simple banking system implemented in Python with the use of prettytable.
+I have implemented a basic banking system in Python using the prettytable library.
 <h2>Description</h2>
-This project provides a basic banking system that allows users to create accounts, deposit money, withdraw cash, and view their account details. The system uses a simple text-based interface and stores customer information in memory.It allows users to get the ouput in a simple and impressive table.
-
+This project offers a simple banking system that enables users to create accounts, deposit and withdraw money, and view their account details. The system utilizes a straightforward text-based interface and stores customer information in memory. It enables users to receive output in a clear and impressive table format.
 <h3>Features</h3>
-<ol>
+<h1>What is Prettytable?</h1>
+<p>PrettyTable is a Python library that allows you to display tabular data in an attractive ASCII table format. You can use it to create visually appealing tables for your data.</p>
 <li> Create a new account with a unique PIN</li>
 <li> Deposit money into an existing account</li>
 <li> Withdraw cash from an existing account</li>
